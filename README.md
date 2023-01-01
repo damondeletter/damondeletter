@@ -28,7 +28,7 @@
 ---
 
 [![Damondeletter's GitHub stats](https://github-readme-stats.vercel.app/api?username=damondeletter&theme=gruvbox)](https://github.com/damondeletter/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damondeletter)](https://github.com/damondeletter/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damondeletter&theme=gruvbox)](https://github.com/damondeletter/github-readme-stats)
 
 <div align="center">
 <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
