@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+![](https://miro.medium.com/max/1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi, I'm Damon <img height="40" src="https://cdn3.emoji.gg/emojis/6587-early-verified-bot-developer-a.gif"></h1>
 <p align="center">
   <a href="https://github.com/damondeletter" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -27,7 +27,7 @@
 
 ---
 
-|![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.svg)|![](https://github.com/szwedzik/Szwedzik/blob/main/metrics.additional.svg)
+|![](https://github.com/damondeletter/damondeletter/blob/main/metrics.svg)|![](https://github.com/damondeletter/damondeletter/blob/main/metrics.additional.svg)
 |---|---|
 
 <div align="center">
