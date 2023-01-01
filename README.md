@@ -17,7 +17,7 @@
   
 - Mainly focusing on Web-Development, Mobile Development (iOS& Android) and all-round development
   
-- In my spare time, I'm a natural bodybuilder. You can check it out:
+- In my spare time, I'm a natural bodybuilder. You can check it out:  <img src="https://img.shields.io/badge/-here-red"/>
   
 - I :heart: learning new languages..
 
@@ -27,7 +27,7 @@
 
 ---
 
-|![](https://github.com/damondeletter/damondeletter/blob/main/metrics.svg)|![](https://github.com/damondeletter/damondeletter/blob/main/metrics.additional.svg)
+[![Damondeletter's GitHub stats](https://github-readme-stats.vercel.app/api?username=damondeletter)](https://github.com/damondeletter/github-readme-stats)
 |---|---|
 
 <div align="center">
