@@ -17,7 +17,7 @@
   
 - Mainly focusing on Web-Development, Mobile Development (iOS& Android) and all-round development
   
-- In my spare time, I'm a natural bodybuilder. You can check it out:  <img src="https://img.shields.io/badge/-here-red"/>
+- In my spare time, I'm a natural bodybuilder. You can check it out:   <a href="https://www.instagram.com/buildyboldingnomad/" target="_blank"><img src="https://img.shields.io/badge/-here-red"/></a>
   
 - I :heart: learning new languages..
 
@@ -27,15 +27,8 @@
 
 ---
 
-[![Damondeletter's GitHub stats](https://github-readme-stats.vercel.app/api?username=damondeletter)](https://github.com/damondeletter/github-readme-stats)
-|---|---|
-
-<div align="center">
-
-  ![](https://raw.githubusercontent.com/damondeletter/damondeletter/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/damondeletter/damondeletter/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
+[![Damondeletter's GitHub stats](https://github-readme-stats.vercel.app/api?username=damondeletter&theme=gruvbox)](https://github.com/damondeletter/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damondeletter)](https://github.com/damondeletter/github-readme-stats)
 
 <div align="center">
 <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> 
