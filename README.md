@@ -13,11 +13,11 @@
   <h3> Few words about Me</h3>
   <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
   
-- I'm a computer science student at HoGent.
+- I'm a software engineer at ArcelorMittal Ghent
   
-- Mainly focusing on Web-Development, Mobile Development (iOS& Android) and all-round development
+- I have studied Applied Computer Science at HoGent, mainly focusing on Web-Development, Mobile Development (iOS& Android) and all-round development
   
-- In my spare time, I'm a natural bodybuilder. You can check it out:   <a href="https://www.instagram.com/buildyboldingnomad/" target="_blank"><img src="https://img.shields.io/badge/-here-red"/></a>
+- In my spare time, I'm a natural bodybuilder.
   
 - I :heart: learning new languages..
 
